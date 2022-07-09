@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neilmolky
-- 👀 I’m interested in machine learning, music, animals, games, bouldering, philosophy, psychology and free will
-- 🌱 I’m currently learning to code in python
-- 💞️ I’m looking to collaborate on machine learning projects
+- 👀 I’m interested in machine learning, data engineering, object oriented programming
+- 🌱 I have experience coding in Python and SQL and am currently learning Scala
+- 💞️ I’m looking to collaborate on data driven projects and cloud based platforms
 - 📫 How to reach me twitter @neilmolky
 
 <!---
