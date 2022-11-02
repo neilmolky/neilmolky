@@ -1,8 +1,36 @@
-- 👋 Hi, I’m @neilmolky
-- 👀 I’m interested in machine learning, data engineering, object oriented programming
-- 🌱 I have experience coding in Python and SQL and am currently learning Scala
-- 💞️ I’m looking to collaborate on data driven projects and cloud based platforms
-- 📫 How to reach me twitter @neilmolky
+# 👋 Hi, Thanks for visiting neilmolky
+### Junior Data Scientist @ Digital Futures
+
+#### Tech stack
+- Python
+- Jupyter
+- PostgreSQL
+- Tableau
+- Git
+- HTML
+- Windows
+- Linux
+
+#### Libraries and Frameworks
+- pandas
+- numpy
+- sklearn
+- tensorflow
+- matplotlib
+- seaborn
+- beautifulSoup
+- requests
+
+#### Socials
+- coming soon
+
+- 👀 I’m also interested in data structures and ethics in data
+- 🎓 I'm now learning Scala and Spark
+- 🌱 I've completed projects in descriptive analytics, predictive modeling and data pipelines
+- 🏢 I currently design e-learning content for data science, engineering and analytics pathways
+- 🎧 I love music. <!--- See what I've been listening to here --->
+- 🎲 I make game solving algorithms for fun <!--- like this sudoku solver --->
+
 
 <!---
 neilmolky/neilmolky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
