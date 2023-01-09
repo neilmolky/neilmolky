@@ -20,6 +20,9 @@
 - matplotlib [![matplotlib](assets/icons/matplotlib.png)](https://matplotlib.org/)
 - seaborn [![seaborn](assets/icons/seaborn.png)](https://seaborn.pydata.org/)
 
+#### Blog posts
+- [Get started building a portfolio: Version Control with git](https://medium.com/@neilmolky/get-started-building-a-portfolio-version-control-with-git-b54fe86365aa)
+
 
 #### Socials
 [![linkedin](assets/icons/linkedin.png)](https://www.linkedin.com/in/neil-molkenthin-701466b7/) 
